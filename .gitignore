@@ -1,5 +1,5 @@
-/auth.json
-*.log
+**auth*
+**.log
 
 
 # Created by .ignore support plugin (hsz.mobi)
